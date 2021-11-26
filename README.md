@@ -1,10 +1,5 @@
-<p align="center"><a href="https://t.me/x_xxax"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
-<p align="center">
-    <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
-</p>
-<p align="center">
-   
-## 🧪 Get `SESSION_NAME` from below:
+
+## 🧪 Get `SESSION_NAME`:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
 
@@ -48,31 +43,11 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BAD221/twix_viedo)
 
-## VPS Deployment 📡
-Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
-
-```sh
-sudo apt update && apt upgrade -y
-sudo apt install git curl python3-pip ffmpeg -y
-pip3 install -U pip
-curl -sL https://deb.nodesource.com/setup_16.x | bash -
-sudo apt-get install -y nodejs
-npm i -g npm
-git clone https://github.com/levina-lab/video-stream # clone the repo.
-cd video-stream
-pip3 install -U -r requirements.txt
-cp example.env .env # use vim to edit ENVs
-vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file).
-python3 main.py # run the bot.
-
-# continue the host with screen or anything else, thanks for reading.
-```
-
 # Credits
 
 - [HIEDAR ZEAD](https://t.me/hii3d) ``Dev``
 - [IBRAHIM](https://t.me/i8_88) ``Dev``
 - [SAJAD](https://t.me/Ssssns) ``Dev``
 
-### Support & Updates 🎑
+### Updates 🎑
  <a href="https://t.me/x_xxax"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
