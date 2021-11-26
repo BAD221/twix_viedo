@@ -1,7 +1,5 @@
 
-## 🧪 Get `SESSION_NAME`:
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
+## Get `SESSION_NAME` 🛠 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) 
 
 ## ✨ Features
 - Music & Video stream support
