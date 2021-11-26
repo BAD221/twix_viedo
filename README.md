@@ -1,21 +1,12 @@
-<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
+<p align="center"><a href="https://t.me/x_xxax"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
 <p align="center">
    
-
-## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
-
 ## 🧪 Get `SESSION_NAME` from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
-
-## 🎭 Preview
-<p align="center">
-  <img src="https://telegra.ph/file/b8c1461bcbbad5664aa48.png">
-</p>
 
 ## ✨ Features
 - Music & Video stream support
